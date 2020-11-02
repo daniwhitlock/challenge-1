@@ -4,7 +4,7 @@
 Modify and refactor current code and files to be concise, maximize functionality, and complete desingated criteria.  
 
 ## Objectives Completed: Changes made to original files
-* Changed title of html sit to Horiseon
+* Changed title of html to Horiseon
 * Added section instead of div in the content and benefits section.
 * Maximized functionality of classes. Consolidated classes in css to eliminate the need for the various classes. Updated classes on index.html. 
 * Added comments on css file to describe what code is for what part of the website:
