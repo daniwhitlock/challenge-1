@@ -12,7 +12,7 @@ Modify and refactor current code and files to be concise, maximize functionality
 * Added alt attributes to images. 
 
 ## Website link
-[Horiseon](https://wikipedia.org)
+[Horiseon](https://daniwhitlock.github.io/challenge-1/)
 
 ## Visual of Live Website
 ![image](https://user-images.githubusercontent.com/72768805/97821664-7af93780-1c70-11eb-8a88-8c73c91a7592.png)
