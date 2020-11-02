@@ -67,7 +67,7 @@ a {
     margin-left: 20px;
 }
 
-.content div { /* Renamed to .content div--consolidated code, just needed one class="content" */
+.content div { 
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,24 +112,24 @@ p {
     background-color: #2589bd;
 }
 
-.benefit { /* Renamed benefit-lead to just benefit. Consolidated benefit-brand, benefit-cost. */
+.benefit { 
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit h3 { /*Renamed benefit-lead to just benefit. Consolidated benefit-brand, benefit-cost */
+.benefit h3 { 
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img { /*Renamed benefit-lead to just benefit. Consolidated benefit-brand, benefit-cost */
+.benefit img { 
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 /* End of benefits style*/
 
-/*beginning of footer style*/
+/* Beginning of footer style*/
 .footer {
     padding: 30px;
     clear: both;
